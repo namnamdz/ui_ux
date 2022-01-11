@@ -1,0 +1,28 @@
+.content-title{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10rem;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.title{
+    width: 23.125rem;
+    height: 6rem;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    margin-bottom: 3rem;
+}
+.decs{
+    width: 52.125rem;
+    
+}
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10rem;
+}
+.product:last-child{
+    margin-right: 0;
+}

@@ -1,0 +1,30 @@
+.big{
+    display: flex;
+    flex-wrap: wrap;
+    width: 24.40875rem;
+    height: 24.40875rem;
+    margin-right: 1.875rem;
+
+}
+.small{
+    display: flex;
+    flex-wrap: wrap;
+    width: 17.875rem;
+    height: 17.875rem;
+    margin-right: 1.875rem;
+}
+.small-img{
+    width: 16.75rem;
+    height: 16.75rem;
+    border: 1px solid #000000;
+}
+.big-img{
+    width: 24.4rem;
+    height: 24.4rem;
+}
+h3{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    margin-top: 1.7rem;
+}
