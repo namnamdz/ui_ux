@@ -1,8 +1,10 @@
 .footer{
-    width: 1389px;
-    margin: 0 auto;
+    
+    width: 100%;
 }
 .footer-top{
+    width: 1389px;
+    margin: 0 auto;
     min-height: 14.5rem;
     display: flex;
 }
@@ -11,11 +13,11 @@
     margin-top: 2.5rem;
 }
 .footer-bottom{
+    width: 1389px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    width: 77rem;
     min-height: 10rem;
-    margin-right: 10rem;
 }
 .about_item{
     list-style: none;

@@ -2,7 +2,8 @@ import React from 'react'
 import './footer.css'
 function Footer() {
     return (
-        <div className='footer'>
+        <>
+            <div className='footer'>
             <hr style={{width:"100%"}}/>
             <div className="footer-top">
                 <div className="footer__top-item aboutUs">
@@ -55,6 +56,8 @@ function Footer() {
                 <div></div>              
             </div>
         </div>
+        </>
+
     )
 }
 

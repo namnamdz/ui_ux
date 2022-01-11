@@ -5,7 +5,8 @@ import Cart from '../../../assets/icons/cart.png';
 import './index.css';
 function Navigation() {
     return (
-        <div className='navigation'>
+        <>
+                <div className='navigation'>
             <nav className='nav'>
                 <ul className='nav-list'>
                     <li className='nav-item'>Home</li>
@@ -38,6 +39,10 @@ function Navigation() {
                     </ul>
             </div>
         </div>
+        <hr style={{width:"100%"}} />
+        </>
+
+        
     )
 }
 
