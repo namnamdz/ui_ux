@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ui_ux/static/css/main.3f066a9a.css",
+    "main.js": "/ui_ux/static/js/main.1d7ced5f.js",
+    "index.html": "/ui_ux/index.html",
+    "main.3f066a9a.css.map": "/ui_ux/static/css/main.3f066a9a.css.map",
+    "main.1d7ced5f.js.map": "/ui_ux/static/js/main.1d7ced5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f066a9a.css",
+    "static/js/main.1d7ced5f.js"
+  ]
+}
